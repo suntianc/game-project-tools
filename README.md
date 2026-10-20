@@ -31,3 +31,8 @@ included. The original game's integration-test fixtures are not bundled.
 The LDtk server is copied unchanged from `tools/ldtk-mcp/ldtk-mcp.mjs` in the local
 game project. Its setup documentation uses portable example paths. Related
 tools retain their respective upstream authorship and licenses.
+
+## License
+
+The LDtk MCP source and documentation in this repository are available under
+the [MIT License](LICENSE).
